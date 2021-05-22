@@ -1,4 +1,4 @@
-# Electric mining drill arrays
+# :hammer_and_pick: Electric mining drill arrays
 
 Space saving setup of electric mining drills in various array-sizes and all belt speeds.  
 
