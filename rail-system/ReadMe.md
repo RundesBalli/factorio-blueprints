@@ -39,3 +39,6 @@ Don't place intersections one after the other, or you may create a train deadloc
 <img src="img/intersection-placing%2Cdont.png" alt="RundesBalli" width="600"/>  
 Place a straight line between intersections!  
 <img src="img/intersection-placing%2Cdo.png" alt="RundesBalli" width="600"/>  
+
+### Grid
+If you don't place the blueprints on top of each other but next to each other, then you can build a grid that fits in itself.  

@@ -1,5 +1,7 @@
 # :blue_book: Factorio blueprints
-A collection of my factorio blueprints.
+A collection of my factorio blueprints.  
+
+To be notified when updates or changes are made, click "watch" in the top right corner of GitHub.  
 
 <hr>
 
