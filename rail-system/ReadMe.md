@@ -13,14 +13,20 @@ All blueprints are collected in a blueprint book:
 Straight:  
 <img src="img/straight.png" alt="RundesBalli" width="450"/>  
 
+Curve, 90 Degrees:  
+<img src="img/curve%2C90deg.png" alt="RundesBalli" width="450"/>  
+
 T-Intersection:  
 <img src="img/t-intersection.png" alt="RundesBalli" width="450"/>  
 
-Intersection:  
-<img src="img/intersection.png" alt="RundesBalli" width="450"/>  
+Intersection, small:  
+<img src="img/intersection-s.png" alt="RundesBalli" width="450"/>  
 
-Curve, 90 Degrees:  
-<img src="img/curve%2C90deg.png" alt="RundesBalli" width="450"/>  
+Intersection, large, space saving:  
+<img src="img/intersection-l,ss.png" alt="RundesBalli" width="450"/>  
+
+Intersection, large, space wasting:  
+<img src="img/intersection-l,sw.png" alt="RundesBalli" width="450"/>  
 
 Turnaround:  
 <img src="img/turnaround.png" alt="RundesBalli" width="450"/>  
@@ -28,9 +34,22 @@ Turnaround:
 Six waiting tracks and additionally two more after, as well as another one before:  
 <img src="img/waiting-tracks.png" alt="RundesBalli" width="450"/>  
 
+Station with 1 loading area and 3 waiting tracks:  
+<small>(alternative with 1 loading area and 5 waiting tracks)</small>  
+<img src="img/station-1l,3w.png" alt="RundesBalli" width="450"/>  
+
+Station with 2 loading areas and 6 waiting tracks:  
+<small>Make sure that both stations have the same names!</small>  
+<img src="img/station-2l,6w.png" alt="RundesBalli" width="450"/>  
+
+Evenly (un-)loader:  
+<small>The circuit empties/fills the tanks so that liquid wagons are not (un-)loaded gradually but evenly.</small>  
+<img src="img/evenly-loader.png" alt="RundesBalli" width="450"/>  
+<img src="img/evenly-unloader.png" alt="RundesBalli" width="450"/>  
+
 ## Notes
 ### Traffic light before intersection
-Please make sure you **remove** the traffic light before an intersection or T-intersection:  
+Please make sure you **remove** the traffic light before an intersection or T-intersection or use the *«Straight, before intersection»* blueprint:  
 <img src="img/traffic-light%2Cleft.png" alt="RundesBalli" width="600"/>  
 <img src="img/traffic-light%2Cright.png" alt="RundesBalli" width="600"/>  
 
