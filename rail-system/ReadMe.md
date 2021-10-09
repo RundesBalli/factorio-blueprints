@@ -35,15 +35,15 @@ Six waiting tracks and additionally two more after, as well as another one befor
 <img src="img/waiting-tracks.png" alt="RundesBalli" width="450"/>  
 
 Station with 1 loading area and 3 waiting tracks:  
-<small>(alternative with 1 loading area and 5 waiting tracks)</small>  
+<sub>(alternative with 1 loading area and 5 waiting tracks)</sub>  
 <img src="img/station-1l,3w.png" alt="RundesBalli" width="450"/>  
 
 Station with 2 loading areas and 6 waiting tracks:  
-<small>Make sure that both stations have the same names!</small>  
+<sub>Make sure that both stations have the same names!</sub>  
 <img src="img/station-2l,6w.png" alt="RundesBalli" width="450"/>  
 
 Evenly (un-)loader:  
-<small>The circuit empties/fills the tanks so that liquid wagons are not (un-)loaded gradually but evenly.</small>  
+<sub>The circuit empties/fills the tanks so that liquid wagons are not (un-)loaded gradually but evenly.</sub>  
 <img src="img/evenly-loader.png" alt="RundesBalli" width="450"/>  
 <img src="img/evenly-unloader.png" alt="RundesBalli" width="450"/>  
 
