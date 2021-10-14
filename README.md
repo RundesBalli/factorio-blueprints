@@ -17,7 +17,7 @@ Space saving setup of electric mining drills in various array-sizes and all belt
 Right-hand rail system for five part trains.  
 <a href="/rail-system">Blueprint book</a>  
 
-<img src="/rail-system/img/intersection.png" alt="RundesBalli" width="450"/>  
+<img src="/rail-system/img/intersection-l%2Css.png" alt="RundesBalli" width="450"/>  
 
 <hr>
 
@@ -25,4 +25,4 @@ Right-hand rail system for five part trains.
 Various furnace setups.  
 <a href="/furnaces">Blueprint book</a>  
 
-<img src="/furnaces/img/48electric-furnaces%2Cred.png" alt="RundesBalli" width="600"/>  
+<img src="/furnaces/img/48electric-furnaces,red,opposite.png" alt="RundesBalli" width="600"/>  
