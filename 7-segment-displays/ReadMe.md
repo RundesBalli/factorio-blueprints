@@ -1,7 +1,7 @@
 # :seven: 7-Segment-Displays
 
-7-segment-displays in various sizes and digit counts.
-The display color is adjustable via a constant combiner.
+7-segment-displays in various sizes and digit counts.  
+The display color is adjustable via a constant combinator.
 
 ## Blueprint-Book
 All blueprints are collected in a blueprint book:  
