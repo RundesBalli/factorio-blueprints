@@ -25,4 +25,12 @@ Right-hand rail system for five part trains.
 Various furnace setups.  
 <a href="/furnaces">Blueprint book</a>  
 
-<img src="/furnaces/img/48electric-furnaces,red,opposite.png" alt="RundesBalli" width="600"/>  
+<img src="/furnaces/img/48electric-furnaces%2Cred%2Copposite.png" alt="RundesBalli" width="600"/>  
+
+<hr>
+
+## :seven: 7-Segment-Displays
+7-segment-displays in various sizes and digit counts.  
+<a href="/7-segment-displays">Blueprint book</a>  
+
+<img src="/7-segment-displays/img/L%2C8digits%2Cgreen.png" alt="RundesBalli" width="600"/>  
