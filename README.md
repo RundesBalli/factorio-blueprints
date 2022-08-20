@@ -34,3 +34,11 @@ Various furnace setups.
 <a href="/7-segment-displays">Blueprint book</a>  
 
 <img src="/7-segment-displays/img/L%2C8digits%2Cgreen.png" alt="RundesBalli" width="600"/>  
+
+<hr>
+
+## :green_circle: Automatic Kovarex Enrichment Process
+Automatic Kovarex Enrichment Process with automatic feeding of additional machines when the first machines are running at the limit.  
+<a href="/kovarex-enrichment-process">Blueprint</a>  
+
+<img src="/kovarex-enrichment-process/img/kovarex.png" alt="RundesBalli" width="600"/>  
