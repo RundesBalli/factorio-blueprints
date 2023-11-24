@@ -51,3 +51,10 @@ Some early- and lategame power sources.
 
 <img src="/power-sources/img/variations.png" alt="RundesBalli" width="700"/>  
 
+<hr>
+
+## :radioactive: 480 MW Nuclear Power Plant
+<a href="/nuclear-power">Blueprint</a>  
+
+<img src="/nuclear-power/img/480mw.png" alt="RundesBalli" width="700"/>  
+
