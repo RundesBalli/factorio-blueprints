@@ -20,4 +20,4 @@ Yellow, red or blue:
 
 36 arrays:  
 
-<img src="img/36-arrays%2Cred.png" alt="RundesBalli" width="600"/>  
+<img src="img/36-arrays%2Cred.png" alt="RundesBalli" width="100%"/>  

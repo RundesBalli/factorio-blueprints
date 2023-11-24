@@ -2,7 +2,7 @@
 
 [Blueprint](https://raw.githubusercontent.com/RundesBalli/factorio-blueprints/master/nuclear-power/blueprint.txt)
 
-<img src="img/480mw.png" alt="RundesBalli" width="700"/>
+<img src="img/480mw.png" alt="RundesBalli" width="100%"/>
 
 ## Note
 On the first run, you must insert one (!) single uranium fuel cell per reactor, to start the plant.

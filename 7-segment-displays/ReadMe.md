@@ -11,8 +11,10 @@ All blueprints are collected in a blueprint book:
 Size variants: XXL, XL, L, M, S  
 Number of digits: 1 up to 8  
 
-<img src="img/L%2C8digits%2Cgreen.png" alt="RundesBalli" width="450"/>  
-<img src="img/L%2C8digits%2Cpink.png" alt="RundesBalli" width="450"/>  
+<img src="img/L%2C8digits%2Cgreen.png" alt="RundesBalli" width="100%"/>  
+<img src="img/L%2C8digits%2Cpink.png" alt="RundesBalli" width="100%"/>  
+
+<hr>
 
 <img src="img/M%2C5digits.png" alt="RundesBalli" width="450"/>  
 <img src="img/S%2C8digits.png" alt="RundesBalli" width="450"/>  

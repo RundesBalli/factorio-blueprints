@@ -25,7 +25,7 @@ Right-hand rail system for five part trains.
 Various furnace setups.  
 <a href="/furnaces">Blueprint book</a>  
 
-<img src="/furnaces/img/48electric-furnaces%2Cred%2Copposite.png" alt="RundesBalli" width="600"/>  
+<img src="/furnaces/img/48electric-furnaces%2Cred%2Copposite.png" alt="RundesBalli" width="100%"/>  
 
 <hr>
 
@@ -33,7 +33,7 @@ Various furnace setups.
 7-segment-displays in various sizes and digit counts.  
 <a href="/7-segment-displays">Blueprint book</a>  
 
-<img src="/7-segment-displays/img/L%2C8digits%2Cgreen.png" alt="RundesBalli" width="600"/>  
+<img src="/7-segment-displays/img/L%2C8digits%2Cgreen.png" alt="RundesBalli" width="100%"/>  
 
 <hr>
 
@@ -41,7 +41,7 @@ Various furnace setups.
 Automatic Kovarex Enrichment Process with automatic feeding of additional machines when the first machines are running at the limit.  
 <a href="/kovarex-enrichment-process">Blueprints</a>  
 
-<img src="/kovarex-enrichment-process/img/kovarex%2Cblue.png" alt="RundesBalli" width="600"/>  
+<img src="/kovarex-enrichment-process/img/kovarex%2Cblue.png" alt="RundesBalli" width="100%"/>  
 
 <hr>
 
@@ -56,5 +56,5 @@ Some early- and lategame power sources.
 ## :radioactive: 480 MW Nuclear Power Plant
 <a href="/nuclear-power">Blueprint</a>  
 
-<img src="/nuclear-power/img/480mw.png" alt="RundesBalli" width="700"/>  
+<img src="/nuclear-power/img/480mw.png" alt="RundesBalli" width="100%"/>  
 
