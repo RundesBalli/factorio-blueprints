@@ -46,7 +46,7 @@ Automatic Kovarex Enrichment Process with automatic feeding of additional machin
 <hr>
 
 ## :zap: Power sources
-Some early- and lategame power sources.
+Some early- and lategame power sources.  
 <a href="/power-sources">Blueprint book</a>  
 
 <img src="/power-sources/img/variations.png" alt="RundesBalli" width="700"/>  
