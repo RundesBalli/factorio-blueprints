@@ -9,7 +9,7 @@ To be notified when updates or changes are made, click "watch" in the top right 
 Space saving setup of electric mining drills in various array-sizes and all belt speeds.  
 <a href="/electric-mining-drill-arrays">Blueprint book</a>  
 
-<img src="/electric-mining-drill-arrays/img/1-array%2Cred.png" alt="RundesBalli" width="450"/>  
+<img src="/electric-mining-drill-arrays/img/various-arrays.png" alt="RundesBalli" width="100%"/>  
 
 <hr>
 

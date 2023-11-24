@@ -9,9 +9,7 @@ All blueprints are collected in a blueprint book:
 ## Various Belts
 Yellow, red or blue:  
 
-<img src="img/1-array%2Cyellow.png" alt="RundesBalli" width="450"/>  
-<img src="img/1-array%2Cred.png" alt="RundesBalli" width="450"/>  
-<img src="img/1-array%2Cblue.png" alt="RundesBalli" width="450"/>
+<img src="img/various-arrays.png" alt="RundesBalli" width="100%"/>  
 
 ## Various array-sizes
 1, 4, 9 or 36 arrays:  
