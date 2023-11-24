@@ -4,7 +4,7 @@ Various furnace setups.
 
 ## Blueprint-Book
 All blueprints are collected in a blueprint book:  
-[Blueprint book](blueprint-book.txt?raw=true)
+[Blueprint book](https://raw.githubusercontent.com/RundesBalli/factorio-blueprints/master/furnaces/blueprint-book.txt)
 
 ## Steel furnaces & electric furnaces
 Available setups with 24, 48 or 72 furnaces. Every setup is calculated with the maximum throughput from the input belt.  

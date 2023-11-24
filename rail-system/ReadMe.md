@@ -5,7 +5,7 @@ Right-hand rail system for five part trains.
 
 ## Blueprint-Book
 All blueprints are collected in a blueprint book:  
-[Blueprint book](blueprint-book.txt?raw=true)
+[Blueprint book](https://raw.githubusercontent.com/RundesBalli/factorio-blueprints/master/rail-system/blueprint-book.txt)
 
 ## Various rail sections
 :heavy_exclamation_mark: <b>Please refer to the notes at the end.</b>  

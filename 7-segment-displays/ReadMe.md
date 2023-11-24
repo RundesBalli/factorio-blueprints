@@ -5,7 +5,7 @@ The display color is adjustable via a constant combinator.
 
 ## Blueprint-Book
 All blueprints are collected in a blueprint book:  
-[Blueprint book](blueprint-book.txt?raw=true)
+[Blueprint book](https://raw.githubusercontent.com/RundesBalli/factorio-blueprints/master/7-segment-displays/blueprint-book.txt)
 
 ## Various sizes and various digit counts
 Size variants: XXL, XL, L, M, S  

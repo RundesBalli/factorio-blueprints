@@ -4,7 +4,7 @@ Space saving setup of electric mining drills in various array-sizes and all belt
 
 ## Blueprint-Book
 All blueprints are collected in a blueprint book:  
-[Blueprint book](blueprint-book.txt?raw=true)
+[Blueprint book](https://raw.githubusercontent.com/RundesBalli/factorio-blueprints/master/electric-mining-drill-arrays/blueprint-book.txt)
 
 ## Various Belts
 Yellow, red or blue:  
