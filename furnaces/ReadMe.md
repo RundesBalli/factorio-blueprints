@@ -19,3 +19,6 @@ Same side or opposite output:
 Also available with 24, 48 or 72 furnaces.  
 
 <img src="img/72%2B72electric-furnaces%2Cblue.png" alt="RundesBalli" width="700"/>
+
+## With speed modules
+<img src="img/36electric-furnaces,blue,speedmodule3.png" alt="RundesBalli" width="700"/>
